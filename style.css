@@ -15,3 +15,10 @@ nav {
   gap: 1.5rem;
   padding: 1.5rem 0;
 }
+
+.card {
+  background: #112e3f;
+  border: 1px solid #1f4558;
+  border-radius: 8px;
+  padding: 1.25rem;
+}
