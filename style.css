@@ -1,0 +1,17 @@
+body {
+  background:#0d2433;
+  color: #ffffff;
+  font-family: system-ui, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+a {
+  color: #7fe3d0;
+  text-decoration: none;
+}
+nav {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem 0;
+}
